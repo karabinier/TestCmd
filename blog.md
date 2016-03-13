@@ -2,4 +2,4 @@
 title: This is my title
 layout: post
 ---
-**Here is my page.**
+![octocat-icon.png](https://raw.githubusercontent.com/karabinier/TestCms/gh-pages/images/octocat-icon.png) here is some content
