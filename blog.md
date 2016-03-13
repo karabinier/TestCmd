@@ -2,6 +2,7 @@
 title: This is my title
 layout: post
 ---
+###### Hieronder een aantal nuttig links naar de verschillende verzekeringsmaatschappijen waarmee we samenwerken:
 * [Mama](http://)
 * Papa
 * Lore
